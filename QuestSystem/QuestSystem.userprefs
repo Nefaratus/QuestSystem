@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Documents\GitHub\CubyGames\CubeGames\Assets\Scripts\Cubies\Player.cs">
+    <Files>
+      <File FileName="..\..\Documents\GitHub\CubyGames\CubeGames\Assets\Scripts\Network\NetworkManager.cs" Line="128" Column="2" />
+      <File FileName="..\..\Documents\GitHub\CubyGames\CubeGames\Assets\Scripts\Cubies\Player.cs" Line="101" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
